@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aws-python-project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.serverless/aws-python-project.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
